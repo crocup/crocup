@@ -7,9 +7,12 @@
 Welcome to my page!
 
 I'm **developer** and **cyber security analyst** with 3+ years experience.
-Hackers With Ethics, Belarus 🇧🇾 , Minsk
+
+Hackers With Ethics
 
 ![d8925](https://www.hackthebox.eu/badge/image/337419)
+
+Belarus 🇧🇾, Minsk
 ## My Skills
 Development of high-load applications and microservices. Development of applications using machine learning technologies.
 
