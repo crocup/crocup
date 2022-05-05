@@ -1,5 +1,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-patunutap@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:patunutap@gmail.com)](mailto:patunutap@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-dimon8925-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dimon8925/)](https://www.linkedin.com/in/dimon8925/) [![Github Badge](https://img.shields.io/badge/-crocup-grey?style=flat&logo=github&logoColor=white&link=https://github.com/crocup/)](https://www.github.com/crocup/) ![Profile views](https://gpvc.arturio.dev/crocup)
+![Profile views](https://gpvc.arturio.dev/crocup)
 
 
 I'm **developer** and **cyber security analyst** with 4+ years experience. Belarus 🇧🇾
